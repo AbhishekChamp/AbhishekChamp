@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhishekChamp
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning verilog
-- 💞️ I’m looking to collaborate on HTML, CSS
+- 💞️ I’m looking to collaborate on HTML, CSS, JS, Python
 - 📫 How to reach me on Twitter @ImAbhishek_08
 
 <!---
