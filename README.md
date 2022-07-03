@@ -8,7 +8,7 @@ I like to code. I code in HTML, CSS, JS, Python, SQL and a bit of verilog. I cod
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [abhishek96.r@gmail.com](mailto:abhishek96.r@gmail.com)
-* 🧠  I'm learning Backend web development
+* 🧠  I'm learning Backend web development along with Data Structures and Algorithms using Python
 * ⚡  I'm good at googling and finding solution to a problem
 
 ### Skills
