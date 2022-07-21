@@ -1,7 +1,7 @@
 Hi 👋 My name is Abhishek
 =========================
 
-Currently a student
+Currently working as Software Engineer in Psiog Digital
 -------------------
 
 I like to code. I code in HTML, CSS, JS, Python, SQL and a bit of verilog. I code almost everyday. I consider myself as a budding developer. I believe that with consistency, I can become a better programmer.
