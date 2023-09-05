@@ -4,11 +4,11 @@ Hi 👋 My name is Abhishek
 Currently Looking for a job / Collaboration 
 -------------------
 
-I like to code. I code in HTML, CSS, JS, Python, SQL and a bit of verilog. I code almost everyday. I consider myself as a budding developer. I believe that with consistency, I can become a better programmer.
+I like to code. I code in HTML, CSS, JS, Python, SQL. I code almost everyday. I consider myself as a budding developer. I believe that with consistency, I can become a better programmer.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [by clicking here](mailto:abhishek96.r@gmail.com)
-* 🧠  I'm currently doing mini projects in Python and enhancing my front end skills
+* 🧠  I'm currently doing mini projects in React and Data Science
 * ⚡  I'm good at googling and finding solution to a problem
 
 ### Skills
