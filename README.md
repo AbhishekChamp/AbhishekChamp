@@ -10,6 +10,7 @@ I like to code. I code in HTML, CSS, JS, Python, SQL. I code almost everyday. I 
 * ✉️  You can contact me at [by clicking here](mailto:abhishek96.r@gmail.com)
 * 🧠  I'm currently doing mini projects in React and Data Science
 * ⚡  I'm good at googling and finding solution to a problem
+* 💡 I'm good at using AI tools and giving them proper prompt
 
 ### Skills
 
