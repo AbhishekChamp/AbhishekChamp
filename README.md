@@ -5,7 +5,13 @@ Currently Looking for a job / Collaboration
 -------------------
 
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>👯 I’m looking to collaborate on Data Science<br>🤝 I’m looking for help with Operations<br>🌱 I’m currently learning Django<br>💬 Ask me about Web development<br>⚡ Fun fact - I wear glasses because I don't C#
+Hi there! I'm a Senior Software Engineer with a passion for building scalable web applications and data-driven systems. I work primarily with Python, JavaScript, and SQL, and I have experience with frameworks and tools like React, FastAPI, Flask, Django, and Apache Airflow.
+
+🔧 Currently, my work revolves around web development and data engineering projects — combining clean code with thoughtful architecture to deliver impactful solutions.
+
+🌱 I'm always learning! Right now, I'm diving into the world of DevOps and exploring Kubernetes to level up my deployment and infrastructure skills.
+
+📫 Let’s connect! I'm always open to collaborating on exciting projects or learning new things from fellow developers.
 
 
 ## 🌐 Socials:
